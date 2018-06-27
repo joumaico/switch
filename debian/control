@@ -1,0 +1,13 @@
+Source: switch
+Section: utils
+Priority: optional
+Maintainer: Joumaico Maulas <joumaico@yahoo.com>
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 12)
+Homepage: https://github.com/joumaico/switch
+
+Package: switch
+Architecture: amd64
+Depends: ${misc:Depends}, xinput
+Description: Enable/Disable Hardware Devices
+ Switch is a simple tool to control hardware devices.

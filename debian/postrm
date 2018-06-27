@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf /opt/switch
+rm -f /usr/bin/switch
